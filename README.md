@@ -99,8 +99,7 @@ Ligege Secondary School (2021)
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/RofhiwaCodeOG/RofhiwaCodeOG/blob/output/github-contribution-grid-snake.svg)
-
+![Snake in a box](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
 ---
 
 > _Seeking internship or entry-level opportunities in IT/software development – let's connect!_
